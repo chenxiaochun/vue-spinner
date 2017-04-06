@@ -1,19 +1,19 @@
 # vue-spinner
 
-### usage：
+### Usage：
 ```
 <zk-spinner></zk-spinner>
 ```
 
-### types：
+### Types：
 * `<zk-spinner :type=0></zk-spinner>`：`snake`形式
 * `<zk-spinner :type=1></zk-spinner>`：`doubl-bounce`形式
 
-### parameters：
+### Parameters：
 * `color`：默认为`red`
 * `size`：默认为`1rem`
 
-### example:
+### Example:
 ```
 <zk-spinner :type=0 color="green" size="2"></zk-spinner>
 ```
